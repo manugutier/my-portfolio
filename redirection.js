@@ -10,5 +10,5 @@ const redirectUrl = pathMap[currentPath];
 if (redirectUrl) {
   window.location.replace(redirectUrl);
 } else {
-  window.location.replace("https://manulogics.notion.site/https://manulogics.notion.site/Manuel-Guti-rrez-Game-Developer-18616a2f61af4ab3b3c04a93bcd85328"); 
+  window.location.replace("https://manulogics.notion.site/Manuel-Guti-rrez-Game-Developer-18616a2f61af4ab3b3c04a93bcd85328"); 
 }
