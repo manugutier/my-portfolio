@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to Manu's Portfolio!</title>
+    <script>
+        window.location.replace("https://manulogics.notion.site/Tale-of-Souls-ed410539a6c8461b85df6d2ec22d39ea?path=taleofsouls");
+    </script>
+</head>
+<body>
+    <p>Thanks for visiting my portfolio! If you are not redirected automatically, follow this <a href="https://manulogics.notion.site/Tale-of-Souls-ed410539a6c8461b85df6d2ec22d39ea?path=taleofsouls">link</a>.</p>
+</body> 
+</html>
