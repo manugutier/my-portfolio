@@ -1,9 +1,9 @@
 <!-- 404.html -->
 <script>
   const pathMap = {
-    "/about": "https://manulogics.notion.site/About-Me-9a69783a6a104b06a5726f03b8449659",
-    "/projects": "https://manulogics.notion.site/3e839863263948658a95588133b6a431?v=295eabf6bb794a93abba0e8ce8194c93",
-    "/projects/fay-keeper": "https://manulogics.notion.site/Fay-Keeper-400d1a9e709c4850b6caa1aabd47c13d",
+    "/about": "https://manulogics.notion.site/About-Me-9a69783a6a104b06a5726f03b8449659?path=about",
+    "/projects": "https://manulogics.notion.site/3e839863263948658a95588133b6a431?v=295eabf6bb794a93abba0e8ce8194c93?path=projects",
+    "/projects/fay-keeper": "https://manulogics.notion.site/Fay-Keeper-400d1a9e709c4850b6caa1aabd47c13d?path=faykeeper",
   };
 
   const currentPath = window.location.pathname.replace(/\/$/, "");
